@@ -505,7 +505,7 @@ button {
 .project_section {
     width: 100%;
     float: left;
-    background-image: url(../images/img-4.png);
+    background-color : black ;
     height: auto;
     background-size: 100%;
     margin-top: 70px;
@@ -559,7 +559,7 @@ button {
 .clients_section {
     width: 100%;
     float: left;
-    background-image: url(../images/img-5.png);
+    background-color : white;
     height: auto;
     background-size: 100%;
 }
